@@ -8,7 +8,6 @@ Tools
 - Screenshot tools  
 
 Dev Docs
-- API Doc
-Tools
+- API Doc : [Sample doc](https://github.com/luissantosgt/Docs/wiki/Surf-Report-API-Sample)
 - Github
 - Programming language
