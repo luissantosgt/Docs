@@ -1,9 +1,9 @@
 # Docs
-Tech Writing Samples
+## Tech Writing Samples
 
-Dev Docs
+**Dev Docs**
 - [API Documentation Sample](API-Doc-Sample.md)
   
-End-User Docs
+**End-User Docs**
 - In progress
 
